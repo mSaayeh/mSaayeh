@@ -1,7 +1,14 @@
 ### Hi there 👋
 #### My name is Mohannad El-Sayeh, a junior android developer from Egypt.
-!(http://handlebarsjs.com/)
+#### 📫 How to reach me:
 
+[<img src="https://f.top4top.io/p_1947ak3931.png">](https://www.facebook.com/M.Saaye7/)
+[<img src="https://b.top4top.io/p_1947o25c71.png">](https://twitter.com/Saaye7)
+[<img src="https://a.top4top.io/p_1947o9vl11.png">](https://www.linkedin.com/in/mohannad-el-sayeh/)
+[<img src="https://f.top4top.io/p_1947dbl8o1.png">](https://www.instagram.com/mohannadelsayeh/)
+
+
+🌱 I’m currently learning kotlin after spending about 2 years learning native android development using java.
 
 <!--
 **mohannadelsayeh/mohannadelsayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
