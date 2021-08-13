@@ -7,10 +7,10 @@
 [<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/linkedin%20icon.png">](https://www.linkedin.com/in/mohannad-el-sayeh/)
 [<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/instagram%20icon.png">](https://www.instagram.com/mohannadelsayeh/)
 
-
+<!--
 🌱 I’m currently learning kotlin after spending about 2 years learning native android development using java.
 
-<!--
+
 **mohannadelsayeh/mohannadelsayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
