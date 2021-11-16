@@ -1,15 +1,13 @@
 ### Hi there 👋
-#### My name is Mohannad El-Sayeh, a junior android developer from Egypt.
+#### My name is Mohannad El-Sayeh, an Android developer from Egypt.
 #### 📫 How to reach me:
 
 [<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/facebook%20icon.png">](https://www.facebook.com/M.Saaye7/)
 [<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/twitter%20icon.png">](https://twitter.com/Saaye7)
-[<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/linkedin%20icon.png">](https://www.linkedin.com/in/mohannad-el-sayeh/)
+[<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/linkedin%20icon.png">](https://www.linkedin.com/in/msaye7)
 [<img src="https://github.com/mohannadelsayeh/mohannadelsayeh/blob/main/instagram%20icon.png">](https://www.instagram.com/mohannadelsayeh/)
 
 <!--
-🌱 I’m currently learning kotlin after spending about 2 years learning native android development using java.
-
 
 **mohannadelsayeh/mohannadelsayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
